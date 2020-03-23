@@ -1,0 +1,5 @@
+n = int(input("dimmi un numero"))
+print("Ecco il doppio", n*2)
+print("Ecco il triplo", n*3)
+print("Ecco il quadruplo", n*4)
+print("Ecco il quintuplo", n*5)
